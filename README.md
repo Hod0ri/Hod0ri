@@ -14,4 +14,5 @@
    A little?
          
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhd0238)](https://solved.ac/jhd0238)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhd0238)](https://solved.ac/jhd0238) &nbsp;&nbsp;&nbsp;&nbsp;
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hod0ri&show_icons=true&theme=radical)
