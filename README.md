@@ -15,5 +15,6 @@
          
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhd0238)](https://solved.ac/jhd0238)  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hod0ri&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hod0ri&langs_count=8)](https://github.com/hod0ri/github-readme-stats)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Hod0ri&&layout=compact&count_private=true&show_icons=true&hide_border=true&card_width=200&include_all_commits=true&bg_color=0D1117&title_color=AEF71D&text_color=AEF71D&icon_color=FFFFFF"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hod0ri&layout=compact&hide_border=true&card_width=200&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
