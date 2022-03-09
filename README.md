@@ -11,10 +11,7 @@
         - Grade 2 : Java / JSP / Android / 정보시스템분석설계 / AI 개론
                     캡스톤 디자인 / DB 모델링(ERD) / Python / Hadoop(이론) / C#
         - Grade 3 : Linux / ERP / UML / 자료구조&알고리즘
-   
-   **🏫 Lecture Progress**  
-   남강고등학교 2021.07 『Python을 활용한 웹 크롤링』- 20 hour  
-   남강고등학교 2021.10 『C언어 기초』- 7 hour  
+     
 ### 🪄 Skills
    #### Python &nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
    Data Science (Numpy, Pandas..) : 70%  
