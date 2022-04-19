@@ -41,7 +41,7 @@
 |[SeatReservation](https://github.com/Hod0ri/SeatReservation)|Toy Project|Java / Swing|My First Collaborate Project with Java|
 |[Algorithm Semina](https://github.com/Hod0ri/Algorithm_Semina)|Semina|Algorithm|Winter Vacation Project (Semina)|
 |[Daelimi](https://github.com/DaelimICC/Daelimi)|Project|Project Leader|Daelim University FAQ Chat bot Project in ICC|
-|[Daelimi API](https://github.com/DaelimICC/Daelimi_API)|Project|Python / Django]|Chatbot and RESTful API Server|
+|[Daelimi API](https://github.com/DaelimICC/Daelimi_API)|Project|Python / Django|Chatbot and RESTful API Server|
 
 ### Contact Me 👋
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
