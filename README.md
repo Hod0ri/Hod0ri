@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:98FB98,100:ADFF2F&height=300&section=header&text=Hello%20World!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hod0ri's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFEBCD,100:7FFFD4&height=300&section=header&text=Hello%20World!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hod0ri's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 ## 📊 Experience
    **🔭 Experience**  
    ```
