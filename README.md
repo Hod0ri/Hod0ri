@@ -36,7 +36,7 @@
 
    <br />
    
-## 🙋 Show My Repositories!!
+## 🙋 Look My Repositories!!
 |Name|Type|Tech-Stack|Desc|
 |---|---|---|---|
 |[SeatReservation](https://github.com/Hod0ri/SeatReservation)|Toy Project|Java / Swing|My First Collaborate Project with Java|
