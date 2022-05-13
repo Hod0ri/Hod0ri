@@ -34,7 +34,6 @@
 ![Tensorflow (Beginner)](https://img.shields.io/badge/Tensorflow-Beginner-green?style=for-the-badge&logo=Tensorflow)
 ![Keras (Beginner)](https://img.shields.io/badge/Keras-Beginner-green?style=for-the-badge&logo=Keras)
 ![Kotlin (Beginner)](https://img.shields.io/badge/Kotlin-Beginner-green?style=for-the-badge&logo=Kotlin)
-![Go lang (Beginner)](https://img.shields.io/badge/Go-Beginner-green?style=for-the-badge&logo=Go)
 
    <br />
    
