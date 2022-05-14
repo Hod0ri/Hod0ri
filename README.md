@@ -26,7 +26,6 @@
    ![Keras (Beginner)](https://img.shields.io/badge/Keras-Beginner-green?style=for-the-badge&logo=Keras)
    ![Flask (Beginner)](https://img.shields.io/badge/Flask-Beginner-green?style=for-the-badge&logo=Flask)
    ![Kotlin (Beginner)](https://img.shields.io/badge/Kotlin-Beginner-green?style=for-the-badge&logo=Kotlin)
-   ![Go lang (Beginner)](https://img.shields.io/badge/Go-Beginner-green?style=for-the-badge&logo=Go)
    
    <br />
    
