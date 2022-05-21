@@ -26,12 +26,13 @@
    ![Keras (Beginner)](https://img.shields.io/badge/Keras-Beginner-green?style=for-the-badge&logo=Keras)
    ![Flask (Beginner)](https://img.shields.io/badge/Flask-Beginner-green?style=for-the-badge&logo=Flask)
    ![Kotlin (Beginner)](https://img.shields.io/badge/Kotlin-Beginner-green?style=for-the-badge&logo=Kotlin)
-   
+   ![Spring Boot (Beginner)](https://img.shields.io/badge/SpringBoot-Beginner-green?style=for-the-badge&logo=SpringBoot)
+   ![Ruby (Beginner)](https://img.shields.io/badge/Ruby-Beginner-green?style=for-the-badge&logo=Ruby)
    <br />
    
 ## 🌱 I’m currently learning ...
-![Tensorflow (Beginner)](https://img.shields.io/badge/Tensorflow-Beginner-green?style=for-the-badge&logo=Tensorflow)
-![Keras (Beginner)](https://img.shields.io/badge/Keras-Beginner-green?style=for-the-badge&logo=Keras)
+![Spring Boot (Beginner)](https://img.shields.io/badge/SpringBoot-Beginner-green?style=for-the-badge&logo=SpringBoot)
+![Ruby (Beginner)](https://img.shields.io/badge/Ruby-Beginner-green?style=for-the-badge&logo=Ruby)
 ![Kotlin (Beginner)](https://img.shields.io/badge/Kotlin-Beginner-green?style=for-the-badge&logo=Kotlin)
 
    <br />
