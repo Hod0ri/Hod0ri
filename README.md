@@ -31,9 +31,9 @@
    <br />
    
 ## 🌱 I’m currently learning ...
-![Spring Boot (Beginner)](https://img.shields.io/badge/SpringBoot-Beginner-green?style=for-the-badge&logo=SpringBoot)
-![Ruby (Beginner)](https://img.shields.io/badge/Ruby-Beginner-green?style=for-the-badge&logo=Ruby)
-![Kotlin (Beginner)](https://img.shields.io/badge/Kotlin-Beginner-green?style=for-the-badge&logo=Kotlin)
+![Python (Advanced)](https://img.shields.io/badge/python-Advanced-gold?style=for-the-badge&logo=python)  
+![Tensorflow (Beginner)](https://img.shields.io/badge/Tensorflow-Beginner-green?style=for-the-badge&logo=Tensorflow)
+![PyTorch (Beginner)](https://img.shields.io/badge/PyTorch-Beginner-green?style=for-the-badge&logo=PyTorch)
 
    <br />
    
