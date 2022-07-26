@@ -20,7 +20,7 @@
 ## 🪄 Skills
    ![Python (Advanced)](https://img.shields.io/badge/python-Advanced-gold?style=for-the-badge&logo=python)  
    ![Django (Intermediate)](https://img.shields.io/badge/Django-intermediate-silver?style=for-the-badge&logo=Django)
-   ![Java (Intermediate)](https://img.shields.io/badge/Java-intermediate-silver?style=for-the-badge&logo=java)
+   ![Java (Intermediate)](https://img.shields.io/badge/Java-intermediate-silver?style=for-the-badge&logo=Java)
    ![Android (Intermediate)](https://img.shields.io/badge/Android-intermediate-silver?style=for-the-badge&logo=Android)  
    ![Tensorflow (Beginner)](https://img.shields.io/badge/Tensorflow-Beginner-green?style=for-the-badge&logo=Tensorflow)
    ![Keras (Beginner)](https://img.shields.io/badge/Keras-Beginner-green?style=for-the-badge&logo=Keras)
@@ -32,7 +32,8 @@
    
 ## 🌱 I’m currently learning ...
 ![Python (Advanced)](https://img.shields.io/badge/python-Advanced-gold?style=for-the-badge&logo=python)  
-![Spring Boot (Beginner)](https://img.shields.io/badge/SpringBoot-Beginner-green?style=for-the-badge&logo=SpringBoot)  
+![Spring Boot (Beginner)](https://img.shields.io/badge/SpringBoot-Beginner-green?style=for-the-badge&logo=SpringBoot) 
+  ![FastAPI (Beginner)](https://img.shields.io/badge/FastAPI-Beginner-green?style=for-the-badge&logo=FastAPI) 
 
    <br />
    
