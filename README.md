@@ -14,8 +14,8 @@
         - Grade 1 : C언어 / 프로그래밍 플로우 / 컴퓨터 활용 / UI 구현(포토샵) / DB/SQL(MySQL)
                     자료구조 / Python / 운영체제 / UI 구현(html/Css)
         - Grade 2 : Java / JSP / Android / 정보시스템분석설계 / AI 개론
-                    캡스톤 디자인 / DB 모델링(ERD) / Python / Hadoop(이론) / C#
-        - Grade 3 : Linux / ERP / UML / ML
+                    캡스톤 디자인 / DB 모델링(ERD) / Python / Hadoop(이론) / C# / Raspberry
+        - Grade 3 : Linux / ERP / UML / ML / BlockChain / Security & Network / Arduino / SW Engineering
    ```
 ## 🪄 Skills
    ![Python (Advanced)](https://img.shields.io/badge/python-Advanced-gold?style=for-the-badge&logo=python)  
