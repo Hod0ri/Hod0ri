@@ -1,4 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFEBCD,100:7FFFD4&height=300&section=header&text=Life%20is%20Journey!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hod0ri's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+
+## 🌱 I’m currently work at...
+```
+2022.11.09 ~ ... (주) 아임잇 - MQ/API 개발자
+```
+
 ## 📊 Experience
    **🔭 Experience**  
    ```
@@ -22,18 +28,18 @@
    ![Django (Intermediate)](https://img.shields.io/badge/Django-intermediate-silver?style=for-the-badge&logo=Django)
    ![Java (Intermediate)](https://img.shields.io/badge/Java-intermediate-silver?style=for-the-badge&logo=Java)
    ![Android (Intermediate)](https://img.shields.io/badge/Android-intermediate-silver?style=for-the-badge&logo=Android)  
+   ![Spring Boot (Intermediate)](https://img.shields.io/badge/SpringBoot-intermediate-silver?style=for-the-badge&logo=SpringBoot)  
    ![Tensorflow (Beginner)](https://img.shields.io/badge/Tensorflow-Beginner-green?style=for-the-badge&logo=Tensorflow)
    ![Keras (Beginner)](https://img.shields.io/badge/Keras-Beginner-green?style=for-the-badge&logo=Keras)
    ![Flask (Beginner)](https://img.shields.io/badge/Flask-Beginner-green?style=for-the-badge&logo=Flask)
-   ![Kotlin (Beginner)](https://img.shields.io/badge/Kotlin-Beginner-green?style=for-the-badge&logo=Kotlin)
-   ![Spring Boot (Beginner)](https://img.shields.io/badge/SpringBoot-Beginner-green?style=for-the-badge&logo=SpringBoot)
+   ![Kotlin (Beginner)](https://img.shields.io/badge/Kotlin-Beginner-green?style=for-the-badge&logo=Kotlin)  
    ![Ruby (Beginner)](https://img.shields.io/badge/Ruby-Beginner-green?style=for-the-badge&logo=Ruby)
    <br />
    
 ## 🌱 I’m currently learning ...
 ![Python (Advanced)](https://img.shields.io/badge/python-Advanced-gold?style=for-the-badge&logo=python)  
-![Spring Boot (Beginner)](https://img.shields.io/badge/SpringBoot-Beginner-green?style=for-the-badge&logo=SpringBoot) 
-  ![FastAPI (Beginner)](https://img.shields.io/badge/FastAPI-Beginner-green?style=for-the-badge&logo=FastAPI) 
+![Spring Boot (Intermediate)](https://img.shields.io/badge/SpringBoot-intermediate-silver?style=for-the-badge&logo=SpringBoot) 
+![Kotlin (Beginner)](https://img.shields.io/badge/Kotlin-Beginner-green?style=for-the-badge&logo=Kotlin)  
 
    <br />
    
