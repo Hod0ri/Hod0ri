@@ -2,7 +2,8 @@
 
 ## 🌱 I’m currently work at...
 ```
-2022.11.09 ~ ... (주) 아임잇 - MQ/API 개발자
+2022.06.01 ~ ...        (주) 버블콘 - Python Backend 개발
+2022.11.09 ~ 2023.05.26 (주) 아임잇 - MQ/API SM(System Management)
 ```
 
 ## 📊 Experience
