@@ -15,9 +15,6 @@
    
 ## 🌱 I’m currently learning ...
 ![Python (Advanced)](https://img.shields.io/badge/python-Advanced-gold?style=for-the-badge&logo=python)  
-![Spring Boot (Intermediate)](https://img.shields.io/badge/SpringBoot-intermediate-silver?style=for-the-badge&logo=SpringBoot) 
-![Kotlin (Beginner)](https://img.shields.io/badge/Kotlin-Beginner-green?style=for-the-badge&logo=Kotlin)  
-
    <br />
    
 ## 🙋 Look My Repositories!!
@@ -34,6 +31,15 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhd0238)](https://solved.ac/jhd0238)  
 
+ 
+### Goal 2024 🐉
+- 정보보안기사 취득
+- 학사 학위 취득
+- 알고리즘 및 CS 공부
+- Hadoop Eco System 이해
+- 클라우드 서비스 공부
+
 ## 📈 GitHub Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Hod0ri&&layout=compact&count_private=true&show_icons=true&hide_border=true&card_width=200&include_all_commits=true&bg_color=0D1117&title_color=AEF71D&text_color=AEF71D&icon_color=FFFFFF"/>  
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hod0ri&layout=compact&hide_border=true&card_width=600&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hod0ri&layout=compact&hide_border=true&card_width=600&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>  
+ <br />
