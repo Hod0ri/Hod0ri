@@ -31,6 +31,10 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhd0238)](https://solved.ac/jhd0238)  
 
+### Certification
+![NCA](https://github.com/Hod0ri/Hod0ri/assets/65306839/6926460e-52f4-4184-9f4c-2b679f89d09d)
+
+
  
 ### Goal 2024 🐉
 - 정보보안기사 취득
