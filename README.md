@@ -30,6 +30,7 @@
 <a href="https://open.kakao.com/o/srQJ5hEd"><img src="https://img.shields.io/badge/Kakao_Talk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=brown&link=https://open.kakao.com/o/srQJ5hEd"/></a>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhd0238)](https://solved.ac/jhd0238)  
+![LeetCode](https://leetcard.jacoblin.cool/hod0ri?ext=contest)
 
 ### Certification
 ![NCA](https://github.com/Hod0ri/Hod0ri/assets/65306839/6926460e-52f4-4184-9f4c-2b679f89d09d)
